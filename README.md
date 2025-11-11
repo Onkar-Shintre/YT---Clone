@@ -1,1 +1,2 @@
-A responsive YouTube-like UI built using HTML and CSS. It includes video search, trending feed, watch page, channel page, and related videos.This project focuses only on the frontend.
+A responsive YouTube-like UI built using HTML and CSS. It includes video search, trending feed, watch page, channel page, and related videos.
+This project focuses only on the frontend.
